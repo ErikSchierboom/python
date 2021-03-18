@@ -1,6 +1,36 @@
 {
   "blurb": "Convert a number, represented as a sequence of digits in one base, to any other base.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "pywkm"
+    },
+    {
+      "github_username": "smt923"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

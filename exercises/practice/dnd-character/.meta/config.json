@@ -1,6 +1,24 @@
 {
   "blurb": "Randomly generate Dungeons & Dragons characters",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "GascaK"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

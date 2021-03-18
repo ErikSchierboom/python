@@ -1,6 +1,48 @@
 {
   "blurb": "Output the lyrics to 'The Twelve Days of Christmas'",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "sjakobi"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AbstractBeliefs"
+    },
+    {
+      "github_username": "ackerleytng"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "PatrickMcSweeny"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "rootulp"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

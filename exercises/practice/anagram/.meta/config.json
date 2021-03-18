@@ -1,6 +1,68 @@
 {
   "blurb": "Given a word and a list of possible anagrams, select the correct sublist.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "crazymykl"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dotrungkien"
+    },
+    {
+      "github_username": "henrik"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "markijbema"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "n1k0"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "roadfoodr"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "vgerak"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

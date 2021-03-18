@@ -1,6 +1,30 @@
 {
   "blurb": "Count the frequency of letters in texts using parallel computation.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "forgeRW"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

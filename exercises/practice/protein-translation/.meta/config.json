@@ -1,6 +1,42 @@
 {
   "blurb": "Translate RNA sequences into proteins.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "cptjackson"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "nmbrgts"
+    },
+    {
+      "github_username": "sjwarner-bp"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

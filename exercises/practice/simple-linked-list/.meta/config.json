@@ -1,6 +1,24 @@
 {
   "blurb": "Write a simple linked list implementation that uses Elements and a List",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "cmccandless"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "rootulp"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

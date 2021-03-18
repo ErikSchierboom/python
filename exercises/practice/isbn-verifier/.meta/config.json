@@ -1,6 +1,30 @@
 {
   "blurb": "Check if a given string is a valid ISBN-10 number.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "pheanex"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

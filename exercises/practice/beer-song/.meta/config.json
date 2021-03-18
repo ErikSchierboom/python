@@ -1,6 +1,44 @@
 {
   "blurb": "Produce the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "rootulp"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

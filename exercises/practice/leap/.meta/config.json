@@ -1,6 +1,68 @@
 {
   "blurb": "Given a year, report if it is a leap year.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "betojulio"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "cruxicheiros"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "fluxusfrequency"
+    },
+    {
+      "github_username": "iandexter"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "olufotebig"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sambryant4"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

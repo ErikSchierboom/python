@@ -1,6 +1,33 @@
 {
   "blurb": "Implement a doubly linked list",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "frerich"
+    },
+    {
+      "github_username": "Mofeywalker"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

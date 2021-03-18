@@ -1,6 +1,69 @@
 {
   "blurb": "Given a number determine whether or not it is valid per the Luhn formula.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "sjakobi"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "Grociu"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "mambocab"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "Nishant23"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "olufotebig"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "rootulp"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "xitanggg"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

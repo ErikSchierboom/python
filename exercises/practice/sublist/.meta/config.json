@@ -1,6 +1,60 @@
 {
   "blurb": "Write a function to determine if a list is a sublist of another list.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "betegelse"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "anunciado"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "csabella"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dvermd"
+    },
+    {
+      "github_username": "Grociu"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "patricksjackson"
+    },
+    {
+      "github_username": "Peque"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

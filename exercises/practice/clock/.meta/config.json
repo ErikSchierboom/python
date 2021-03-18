@@ -1,6 +1,51 @@
 {
   "blurb": "Implement a clock that handles times without dates.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "chrisftw"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "GascaK"
+    },
+    {
+      "github_username": "guaneec"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "Mofeywalker"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "rootulp"
+    },
+    {
+      "github_username": "smalley"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

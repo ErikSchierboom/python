@@ -1,6 +1,48 @@
 {
   "blurb": "Pick the best hand(s) from a list of poker hands.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "MartinDelille"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dvermd"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "jnaulty"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "njgingrich"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

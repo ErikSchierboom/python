@@ -1,6 +1,51 @@
 {
   "blurb": "Given a string representing a matrix of numbers, return the rows and columns of that matrix.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "sjakobi"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "danishprakash"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "simmol"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

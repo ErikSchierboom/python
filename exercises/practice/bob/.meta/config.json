@@ -1,6 +1,95 @@
 {
   "blurb": "Bob is a lackadaisical teenager. In conversation, his responses are very limited.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "0xae"
+    },
+    {
+      "github_username": "aldraco"
+    },
+    {
+      "github_username": "atg-abhishek"
+    },
+    {
+      "github_username": "austinlyons"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "cypher"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "etrepum"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "janetriley"
+    },
+    {
+      "github_username": "jremmen"
+    },
+    {
+      "github_username": "koljakube"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "lucasdpau"
+    },
+    {
+      "github_username": "miketamis"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "patricksjackson"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sdublish"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "stonemirror"
+    },
+    {
+      "github_username": "thenigan"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

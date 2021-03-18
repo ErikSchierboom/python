@@ -1,6 +1,51 @@
 {
   "blurb": "Create an implementation of the atbash cipher, an ancient encryption system created in the Middle East.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "betegelse"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "jgomo3"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "parinporecha"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

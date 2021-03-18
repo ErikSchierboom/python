@@ -1,6 +1,54 @@
 {
   "blurb": "Implement the classic method for composing secret messages called a square code.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "betegelse"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "elyssonmr"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "MrNaif2018"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    },
+    {
+      "github_username": "yo-ga"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

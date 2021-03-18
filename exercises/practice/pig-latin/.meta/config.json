@@ -1,6 +1,42 @@
 {
   "blurb": "Implement a program that translates from English to Pig Latin",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "akashsara"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "Sukhj1nder"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

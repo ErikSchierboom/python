@@ -1,6 +1,38 @@
 {
   "blurb": "Implement complex numbers.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dvermd"
+    },
+    {
+      "github_username": "gsbullmer"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "pranasziaukas"
+    },
+    {
+      "github_username": "susg"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "trangttt"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

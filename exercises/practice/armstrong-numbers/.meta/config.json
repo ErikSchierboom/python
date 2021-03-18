@@ -1,6 +1,30 @@
 {
   "blurb": "Determine if a number is an Armstrong number",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "pheanex"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "K4cePhoenix"
+    },
+    {
+      "github_username": "sukovanej"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

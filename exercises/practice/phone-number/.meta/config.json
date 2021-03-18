@@ -1,6 +1,56 @@
 {
   "blurb": "Clean up user-entered phone numbers so that they can be sent SMS messages.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "GascaK"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "jeremystucki"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "Sukhj1nder"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

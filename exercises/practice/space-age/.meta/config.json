@@ -1,6 +1,53 @@
 {
   "blurb": "Given an age in seconds, calculate how old someone is in terms of a given planet's solar years.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "abhijitparida"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "crsmi"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "gabriel376"
+    },
+    {
+      "github_username": "gabriellhrn"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

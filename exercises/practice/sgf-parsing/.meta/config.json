@@ -1,6 +1,33 @@
 {
   "blurb": "Parsing a Smart Game Format string.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "cmccandless"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "crsmi"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "elyashiv"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

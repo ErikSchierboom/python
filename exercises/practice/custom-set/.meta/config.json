@@ -1,6 +1,21 @@
 {
   "blurb": "Create a custom set type.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "cmccandless"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "vigneshhari"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

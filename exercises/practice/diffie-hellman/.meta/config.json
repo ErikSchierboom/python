@@ -1,6 +1,26 @@
 {
   "blurb": "Diffie-Hellman key exchange.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "lucasloisp"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "pyropy"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

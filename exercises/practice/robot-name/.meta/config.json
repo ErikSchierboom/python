@@ -1,6 +1,47 @@
 {
   "blurb": "Manage robot factory settings.",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "ariso353"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "rootulp"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "tstirrat15"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

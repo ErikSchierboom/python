@@ -1,6 +1,42 @@
 {
   "blurb": "Take input text and output it transposed.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "nithin-vijayan"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dvermd"
+    },
+    {
+      "github_username": "Grociu"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "parinporecha"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

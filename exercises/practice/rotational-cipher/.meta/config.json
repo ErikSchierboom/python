@@ -1,6 +1,39 @@
 {
   "blurb": "Create an implementation of the rotational cipher, also sometimes called the Caesar cipher.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "krapes"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "akashsara"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dotrungkien"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "lekum"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

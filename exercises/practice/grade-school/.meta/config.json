@@ -1,6 +1,53 @@
 {
   "blurb": "Given students' names along with the grade that they are in, create a roster for the school",
   "authors": [],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "de2Zotjes"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "hop"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lowks"
+    },
+    {
+      "github_username": "mambocab"
+    },
+    {
+      "github_username": "Mofeywalker"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

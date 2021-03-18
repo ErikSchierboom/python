@@ -1,6 +1,30 @@
 {
   "blurb": "Compute the result for a game of Hex / Polygon",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "yunchih"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dvermd"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

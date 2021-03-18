@@ -1,6 +1,54 @@
 {
   "blurb": "Calculate the date of meetups.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "sjakobi"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "acedrew"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dvermd"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "Peque"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "ZacharyRSmith"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

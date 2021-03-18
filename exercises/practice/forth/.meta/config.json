@@ -1,6 +1,36 @@
 {
   "blurb": "Implement an evaluator for a very simple subset of Forth",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "cmccandless"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "dvermd"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "omer-g"
+    },
+    {
+      "github_username": "parthsharma2"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

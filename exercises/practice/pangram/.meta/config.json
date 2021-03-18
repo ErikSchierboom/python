@@ -1,6 +1,54 @@
 {
   "blurb": "Determine if a sentence is a pangram.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "Grociu"
+    },
+    {
+      "github_username": "helenst"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "luoken"
+    },
+    {
+      "github_username": "mtroiani"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "olufotebig"
+    },
+    {
+      "github_username": "patricksjackson"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

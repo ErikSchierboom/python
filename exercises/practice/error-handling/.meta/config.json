@@ -1,6 +1,24 @@
 {
   "blurb": "Implement various kinds of error handling and resource management",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "cmccandless"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

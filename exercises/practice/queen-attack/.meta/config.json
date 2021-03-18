@@ -1,6 +1,63 @@
 {
   "blurb": "Given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "betegelse"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "beatorizu"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "denislooby"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "fortrieb"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "jnaulty"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "olufotebig"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "xitanggg"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

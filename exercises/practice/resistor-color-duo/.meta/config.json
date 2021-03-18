@@ -1,6 +1,30 @@
 {
   "blurb": "Convert color codes, as used on resistors, to a numeric value.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "ee7"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "alirezaghey"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "xitanggg"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

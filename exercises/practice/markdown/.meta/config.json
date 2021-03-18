@@ -1,6 +1,33 @@
 {
   "blurb": "Refactor a Markdown parser",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "Paul-Ilyin"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "xitanggg"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

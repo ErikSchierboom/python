@@ -1,6 +1,42 @@
 {
   "blurb": "Create a sentence of the form \"One for X, one for me.\"",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "samwincott"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "denislooby"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "Grociu"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "mikeyny"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "xarxziux"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

@@ -1,6 +1,39 @@
 {
   "blurb": "Tally the results of a small football competition.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "Grociu"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "mikeyny"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "spencer51324312"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

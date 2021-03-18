@@ -1,6 +1,57 @@
 {
   "blurb": "Given a person's allergy score, determine whether or not they're allergic to a given item, and their full list of allergies.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "sjakobi"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "iandexter"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "olufotebig"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "spencer51324312"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "ZacharyRSmith"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

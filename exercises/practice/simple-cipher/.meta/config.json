@@ -1,6 +1,63 @@
 {
   "blurb": "Implement a simple shift cipher like Caesar and a more secure substitution cipher",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "betegelse"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    },
+    {
+      "github_username": "beatorizu"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lucasloisp"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "Peque"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sharno"
+    },
+    {
+      "github_username": "sjakobi"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "twsh"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

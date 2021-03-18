@@ -1,6 +1,54 @@
 {
   "blurb": "Given a number from 0 to 999,999,999,999, spell out that number in English.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AndrejTS"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "csabella"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "fortrieb"
+    },
+    {
+      "github_username": "gabriellhrn"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "mandel01"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "pranasziaukas"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "tsamoglou"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

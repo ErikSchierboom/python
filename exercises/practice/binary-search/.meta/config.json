@@ -1,6 +1,54 @@
 {
   "blurb": "Implement a binary search algorithm.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "michaelkunc"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "fortrieb"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "mpatibandla"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "patricksjackson"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "subkrish"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

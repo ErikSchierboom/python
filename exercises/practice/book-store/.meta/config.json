@@ -1,6 +1,45 @@
 {
   "blurb": "To try and encourage more sales of different books from a popular 5 book series, a bookshop has decided to offer discounts of multiple-book purchases.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "ferhatelmas"
+    },
+    {
+      "github_username": "hanksudo"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "jackattack24"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

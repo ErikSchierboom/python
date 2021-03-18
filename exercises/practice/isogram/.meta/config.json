@@ -1,6 +1,48 @@
 {
   "blurb": "Determine if a word or phrase is an isogram.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "behrtam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "abhijitparida"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "Nishant23"
+    },
+    {
+      "github_username": "olufotebig"
+    },
+    {
+      "github_username": "rever0f"
+    },
+    {
+      "github_username": "sdublish"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

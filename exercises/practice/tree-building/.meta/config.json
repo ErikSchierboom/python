@@ -1,6 +1,24 @@
 {
   "blurb": "Refactor a tree building algorithm.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "clapmyhands"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

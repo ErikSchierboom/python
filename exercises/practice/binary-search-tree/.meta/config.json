@@ -1,6 +1,30 @@
 {
   "blurb": "Insert and search for numbers in a binary tree.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rodrigocam"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "tsamoglou"
+    },
+    {
+      "github_username": "wandreuscv"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

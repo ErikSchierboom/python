@@ -1,6 +1,27 @@
 {
   "blurb": "Given a knapsack that can only carry a certain weight, determine which items to put in the knapsack in order to maximize their combined value.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "omer-g"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "kylecjo"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

@@ -1,6 +1,48 @@
 {
   "blurb": "Convert a long phrase to its acronym",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "rootulp"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "GascaK"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "omer-g"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "sjwarner-bp"
+    },
+    {
+      "github_username": "thomasjpfan"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

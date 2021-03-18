@@ -1,6 +1,30 @@
 {
   "blurb": "Rebuild binary trees from pre-order and in-order traversals.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "AnAccountForReportingBugs"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "aaditkamat"
+    },
+    {
+      "github_username": "BethanyG"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "tqa236"
+    },
+    {
+      "github_username": "yawpitch"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],

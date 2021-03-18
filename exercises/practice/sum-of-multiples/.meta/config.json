@@ -1,6 +1,60 @@
 {
   "blurb": "Given a number, find the sum of all the multiples of particular numbers up to but not including that number.",
-  "authors": [],
+  "authors": [
+    {
+      "github_username": "sjakobi"
+    }
+  ],
+  "contributors": [
+    {
+      "github_username": "ackerleytng"
+    },
+    {
+      "github_username": "behrtam"
+    },
+    {
+      "github_username": "bsoyka"
+    },
+    {
+      "github_username": "cmccandless"
+    },
+    {
+      "github_username": "Dog"
+    },
+    {
+      "github_username": "etmoore"
+    },
+    {
+      "github_username": "GascaK"
+    },
+    {
+      "github_username": "ikhadykin"
+    },
+    {
+      "github_username": "julianandrews"
+    },
+    {
+      "github_username": "kotp"
+    },
+    {
+      "github_username": "kytrinyx"
+    },
+    {
+      "github_username": "lekum"
+    },
+    {
+      "github_username": "N-Parsons"
+    },
+    {
+      "github_username": "oalbe"
+    },
+    {
+      "github_username": "pheanex"
+    },
+    {
+      "github_username": "tqa236"
+    }
+  ],
   "files": {
     "solution": [],
     "test": [],
